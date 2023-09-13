@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/57td9ug3h85fae8a?svg=true)](https://ci.appveyor.com/project/OlyaMa/for-in)
